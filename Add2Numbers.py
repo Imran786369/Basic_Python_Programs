@@ -3,7 +3,7 @@ b=10
 res=a+b
 print(res)
 
-#Using sums function
+#Using sum function
 nums=[10,5]
 print(sum(nums))
 
